@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Marc-Olivier Boldi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person." je commente ici mais tu peux changer 
-  location         : "Lausanne"
+  avatar           : "/assets/images/math2.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Je commente ici comme ça tu peux changer ça" 
+  location         : "Université de Lausanne c'est la fête"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:marc-olivier.boldi@unil.ch"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
