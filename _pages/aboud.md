@@ -6,9 +6,7 @@ permalink: /about/
 
 # Bienvenue tirlipimpon sur le chihuahua
 
-Voici une photo de moi, je devais sans doute être en train de boire
-
-![Moi](images/moboldi.png)
+Voici quelques photos additionnelles lorsque j'avais un peu bu
 
 ![Moi2](images/moboldi2.jpeg)
 
