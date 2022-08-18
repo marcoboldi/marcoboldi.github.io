@@ -20,7 +20,7 @@ title                    : "Marc-Olivier Boldi's homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Marc-Olivier Boldi"
-description              : "Welcome to my page! "
+description              : "Welcome to my page!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ author:
   name             : "Marc-Olivier Boldi"
   avatar           : "/assets/images/moboldi.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Je commente ici comme ça tu peux changer ça" 
-  location         : "Université de Lausanne c'est la fête"
+  location         : "Université de Lausanne"
   email            :
   links:
     - label: "Email"
