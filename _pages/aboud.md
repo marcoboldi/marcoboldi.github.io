@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /about
+permalink: /about/
 ---
 
 # Bienvenue tirlipimpon sur le chihuahua
